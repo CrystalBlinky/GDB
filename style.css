@@ -1,0 +1,30 @@
+.campuslife_mainDiv
+{
+    border:1px solid lightgrey;
+}
+.campuslife_mainDiv img
+{
+    width:50%;
+}
+#h
+{
+    width:30%
+}
+.movie_head
+{
+    font-size: 20px;
+    padding: 6px 20px;
+    border-radius:10px;
+    margin-bottom: 20px;
+}
+.movie_head i
+{
+    float:right;
+}
+.movie_text span{
+    color:orange;
+}
+#achievements{
+    margin-left:200px;
+    margin-right:175px;
+}
